@@ -64,6 +64,7 @@ img {
     display: inline;
     border-radius: 1rem;
     padding: 1rem;
+    box-sizing: border-box;
 }
 .msg-container {
     margin-top: 3rem;
