@@ -63,6 +63,7 @@ img {
     font-size: 1.5rem;
     display: inline;
     border-radius: 1rem;
+    padding: 1rem;
 }
 .msg-container {
     margin-top: 3rem;
