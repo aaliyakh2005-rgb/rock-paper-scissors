@@ -58,11 +58,10 @@ img {
 }
 #msg{
     height: 20vw;
-    width: 20vw;
+    width: 25vw;
     background-color: #ffddd2;
     font-size: 2rem;
     display: inline;
-    padding: 1rem;
     border-radius: 1rem;
 }
 .msg-container {
