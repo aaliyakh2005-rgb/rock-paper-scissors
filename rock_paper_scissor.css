@@ -20,8 +20,8 @@ h1 {
     box-sizing: border-box;
 }
 .choice {
-    height: 220px;
-    width: 220px;
+    height: 25vw;
+    width: 25vw;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -32,8 +32,8 @@ h1 {
     background-color: #e29578;
 }
 img {
-    height: 200px;
-    width: 200px;
+    height: 25vw;
+    width: 25vw;
     border-radius: 50%;
     object-fit: cover;
 }
@@ -41,8 +41,8 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 3rem;
-    flex-wrap: wrap;
+    gap: 1rem;
+    flex-wrap: no-wrap;
     width: 100%;
     box-sizing: border-box;
 }
