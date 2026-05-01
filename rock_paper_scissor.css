@@ -68,3 +68,23 @@ img {
 .msg-container {
     margin-top: 3rem;
 }
+@media (max-width: 768px) {
+    .choice {
+        height: 25vw;
+        widht: 25vw;
+    }
+    img {
+        height: 23vw;
+        width: 23vw;
+    }
+}
+@media (min-width: 769px) {
+    .choice {
+        height: 155px;
+        width: 155px;
+    }
+img {
+    height: 150px;
+    width: 150px;
+}
+}
